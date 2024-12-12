@@ -1,0 +1,47 @@
+h1 {
+    font-family: 'Oleo Script Swash Caps';
+    color: #FDE68A;
+    font-size: 60px;
+}
+
+body {
+    font-family: 'Merriweather Sans';
+    background-image: url(/winter\ Background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+main {
+    background-color: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(10px);
+    padding: 30px 25px;
+}
+
+p {
+    color: white;
+}
+
+details {
+    background-color: #166534;
+    color: white;
+}
+
+footer {
+    color: #F87171;
+}
+
+a {
+    color: #FDE68A !important;
+    font-size: 32px;
+}
+
+#Werbung {
+    position: absolute;
+    right: -200px;
+    top: 0px;
+}
+
+table {
+    background-color: wheat;
+}
