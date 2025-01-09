@@ -36,7 +36,7 @@ a {
     font-size: 32px;
 }
 
-#Werbung {
+#WerbungValTrupchun {
     position: absolute;
     right: -200px;
     top: 0px;
@@ -44,4 +44,11 @@ a {
 
 table {
     background-color: wheat;
+}
+@media screen and (max-width: 400px)
+
+{
+    #WerbungValTrupchun {
+        display:none;
+    }
 }
